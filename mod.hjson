@@ -1,0 +1,9 @@
+name: "unlock-asteroids"
+displayName: "Unlock Asteroids"
+author: "fantech348"
+description: "allows to play with Asteroids in V7. btw there is [FF0000]INFINITE [white] waves on them so they like challenge maps :P"
+version: "1.0"
+minGameVersion: "136"
+dependencies: []
+hidden: false
+main: "scripts/unlock.js"
